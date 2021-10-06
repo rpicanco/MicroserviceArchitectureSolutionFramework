@@ -9,10 +9,10 @@ This project aims to propose a software development process framework in a Micro
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">What problem does this framework solve?</a>
     </li>
     <li>
-       <a>Business Domain Design</a>
+       <a>Business Boundary</a>
     </li>
     <ul>
       <li>
@@ -32,11 +32,11 @@ This project aims to propose a software development process framework in a Micro
       </li>
     </ul>
     <li>
-       <a>System Architecture</a>
+       <a>Solution Architecture Boundary</a>
     </li>
     <ul>
       <li>
-        <a>Architectural Caracteristics (Non-functional requirements)</a>
+        <a>Architectural Caracteristics</a>
       </li>
       <li>
         <a>Constraints Records</a>
@@ -44,85 +44,61 @@ This project aims to propose a software development process framework in a Micro
       <li>
         <a>Decision Records</a>      
       </li>
+      <li>
+        <a>Solution Design Diagram</a>
+      </li>
+      <li>
+        <a>API Design (Gateway)</a>
+      </li>
+      <li>
+        <a>Behavioral Diagrams</a>      
+      </li>
+      <li>
+        <a>Solution Standards</a>
+      </li>	  
     </ul>
     <li>
-       <a>Solution Architecture</a>
+       <a>Software Architecture Boundary</a>
     </li>
     <ul>
       <li>
-        <a>Solution Design Diagram</a>
+        <a>Hexagonal Architecture Diagram</a>
+      </li>
+      <li>
+        <a>Structure Diagrams</a>
+      </li>
+      <li>
+        <a>Archetype</a>      
       </li>
       <li>
         <a>Container Diagram</a>
       </li>
       <li>
-        <a>Behavioral Diagrams</a>      
-      </li>
-      <ul>
-	<li>
-	   <a>State Machine</a>
-	</li>
-	<li>
-	   <a>Sequence Diagram</a>
-	</li>
-      </ul>
-      <li>
-        <a>Access Scopes</a>      
-      </li>
-      <li>
-        <a>RESTful APIs Specification (Gateway) - OpenAPI</a>      
-      </li>
-      <li>
-        <a>Message-Driven APIs - AsyncAPI</a>      
-      </li>
+        <a>Branching Workflow</a>
+      </li>      	  
     </ul>
     <li>
-       <a>Software Architecture</a>
+       <a>Development Boundary</a>
     </li>
     <ul>
       <li>
-        <a>Hexagonal Architecture Diagram</a>
-      </li>      
-      <li>
-        <a>Standards</a>      
-      </li>
-      <ul>
-	<li>
-	   <a>Name convention (queue, exchanges, Headers (queue and http))</a>
-	</li>
-	<li>
-	   <a>Error Handling</a>
-	</li>
-      </ul>
-      <li>
-        <a>Archetype</a>      
+        <a>API Design (Microservice)</a>
       </li>
       <li>
-        <a>Branching workflow</a>      
-      </li>      
-    </ul>
-    <li>
-       <a>Development</a>
-    </li>
-    <ul>
-      <li>
-        <a>RESTful APIs Specifications (Microservices)</a>
+        <a>Microservice Specification</a>
       </li>
       <li>
-        <a>Detailed Flow Specification</a>
+        <a>Features & Scenarios - Behaviour Driven</a>      
       </li>
       <li>
-        <a>Features & Scenarios - Behaviour Driveng</a>      
-      </li>
-      <li>
-        <a>Test automation</a>
+        <a>Test Automation</a>
       </li>
       <li>
         <a>Source Code</a>
-      </li>
+      </li>      	  
     </ul>
     <li>
-       <a>Delivery</a>
+       <a>Delivery Boundary</a>
     </li>
     <ul>
       <li>
@@ -139,7 +115,7 @@ This project aims to propose a software development process framework in a Micro
       </li>
       <li>
         <a>Chaos Engineering</a>
-      </li>
+      </li>      	  
     </ul>
   </ol>
 </details>
