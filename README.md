@@ -1,6 +1,6 @@
 # Software Development Process Framework
 
-This project aims to propose a software development process framework for standardizing of projects in a Microservices Architecture. It was designed with boundaries and deliverables. All Deliverables can be done in any order and/or in parallel and being enriched throughout the project lifecycle.<br><br>
+This project aims to propose a software development process framework for standardizing projects in a Microservices Architecture. It was designed with boundaries and deliverables. All Deliverables can be done in any order and/or in parallel and being enriched throughout the project lifecycle.<br><br>
 
 <img src="Software Development Process Framework.png">
 
