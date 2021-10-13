@@ -37,7 +37,7 @@
 </details>
 
 ## About the Project
-This project aims to propose a Microservice Architecture Solution Framework for standardizing Microservices Architecture projects. It was designed with boundaries and deliverables. All Deliverables can be done in any order and/or in parallel and being enriched throughout the project lifecycle. Each project has own needs, as a consequence, not all deliverables are applied.
+This project aims to propose a Microservice Architecture Solution Framework for standardizing Microservices Architecture projects. It was designed with boundaries and deliverables. All Deliverables can be done in any order and/or in parallel and being enriched throughout the project lifecycle. Each project has own needs, as a consequence, not all deliverables are applied for a specific project.
 
 ## What problem does this framework solve?
 XXXX
