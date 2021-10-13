@@ -1,7 +1,5 @@
-# Microservice Architecture Development Process Framework
-
-This project aims to propose a software development process framework for standardizing Microservices Architecture projects. It was designed with boundaries and deliverables. All Deliverables can be done in any order and/or in parallel and being enriched throughout the project lifecycle.<br><br>
-
+# Microservice Architecture Solution Framework
+<br>
 <img src="Software Development Process Framework - boundaries.png">
 
 <!-- TABLE OF CONTENTS -->
@@ -9,10 +7,13 @@ This project aims to propose a software development process framework for standa
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
       <a href="#what-problem-does-this-framework-solve">What problem does this framework solve?</a>
     </li>
     <li>
-       <a>Boundaries</a>
+       <a>Boundaries' deliverables</a>
     </li>
     <ul>
       <li>
@@ -34,6 +35,9 @@ This project aims to propose a software development process framework for standa
     </ul>
   </ol>
 </details>
+
+## About the Project
+This project aims to propose a Microservice Architecture Solution Framework for standardizing Microservices Architecture projects. It was designed with boundaries and deliverables. All Deliverables can be done in any order and/or in parallel and being enriched throughout the project lifecycle. Each project has own needs, as a consequence, not all deliverables are applied.
 
 ## What problem does this framework solve?
 XXXX
