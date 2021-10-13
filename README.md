@@ -17,7 +17,7 @@
     </li>
     <ul>
       <li>
-        <a href="#business-boudary">Business Boudary</a>
+        <a href="#business-boudary">Business Domain Boudary</a>
       </li>
       <li>
         <a href="#solution-architecture-boudary">Solution Architecture Boudary</a>
@@ -42,7 +42,7 @@ This project aims to propose a Microservice Architecture Solution Framework for 
 ## What problem does this framework solve?
 XXXX
 
-## Business Boudary
+## Business Domain Boudary
 XXXX
 
 ## Solution Architecture Boudary
