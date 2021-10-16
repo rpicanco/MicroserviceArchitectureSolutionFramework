@@ -80,25 +80,31 @@ XXXX
         <a href="#business-boudary">Architecture Solution Design</a>
       </li>
       <li>
-        <a href="#solution-architecture-boudary">Architecture Decision Records</a>
+        <a href="#solution-architecture-boudary">Microservice Patterns</a>
       </li>
       <li>
-        <a href="#software-architecture-boudary">Architectural Caracteristics</a>
+        <a href="#software-architecture-boudary">Architecture Decision Records</a>
       </li>
       <li>
-        <a href="#development-boudary">Solution Standards</a>
+        <a href="#development-boudary">Architectural Caracteristics</a>
       </li>      
       <li>
-        <a href="#delivery-boudary">Constraints Records</a>
+        <a href="#delivery-boudary">Event Specification (AsyncAPI)</a>
       </li>
       <li>
-        <a href="#software-architecture-boudary">API Design (Gateway)</a>
+        <a href="#software-architecture-boudary">Constraints Records</a>
       </li>
       <li>
-        <a href="#development-boudary">UML Behavioral Diagrams</a>
+        <a href="#development-boudary">API Management</a>
       </li>      
       <li>
-        <a href="#delivery-boudary">Container Diagram</a>
+        <a href="#delivery-boudary">UML Behavioral Diagrams</a>
+      </li>
+      <li>
+        <a href="#development-boudary">Container Diagram</a>
+      </li>      
+      <li>
+        <a href="#delivery-boudary">Solution Standards</a>
       </li>
   </ol>
 </details>
