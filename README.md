@@ -102,9 +102,6 @@ XXXX
     </li>
     <li>
      <a href="/solution-architecture/deliverables/container-diagram.md">Container Diagram</a>
-    </li>      
-    <li>
-     <a href="/solution-architecture/deliverables/solution-standards.md">Solution Standards</a>
     </li>
   </ol>
 </details>
