@@ -1,6 +1,6 @@
 # Microservice Architecture Solution Framework
 <br>
-<img src="Software Development Process Framework - boundaries.png">
+<img src="/microservice-architecture-solution-framework/Microservice Architecture Solution Framework - Boundaries.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
