@@ -1,6 +1,6 @@
 # Microservice Architecture Solution Framework
 <br>
-<img src="/microservice-architecture-solution-framework/Microservice Architecture Solution Framework - Boundaries.png">
+<img src="/microservice-architecture-solution-framework/images/Microservice Architecture Solution Framework - Boundaries.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -44,7 +44,7 @@ XXXX
 
 ## Business Domain Boudary
 
-<img src="/business-domain-design/Business Domain Design - Deliverables.png">
+<img src="/business-domain-design/images/Business Domain Design - Deliverables.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -70,7 +70,7 @@ XXXX
 
 ## Solution Architecture Boudary
 
-<img src="/solution-architecture/Solution Architecture - Deliverables.png">
+<img src="/solution-architecture/images/Solution Architecture - Deliverables.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
