@@ -77,34 +77,34 @@ XXXX
   <summary>Deliverables</summary>
   <ol>    
     <li>
-     <a href="#business-boudary">Architecture Solution Design</a>
+     <a href="/solution-architecture/architecture-solution-design.md">Architecture Solution Design</a>
     </li>
     <li>
-     <a href="#solution-architecture-boudary">Microservice Patterns</a>
+     <a href="/solution-architecture/microservice-patterns.md">Microservice Patterns</a>
     </li>
     <li>
-     <a href="#software-architecture-boudary">Architecture Decision Records</a>
+     <a href="/solution-architecture/architecture-decision-records.md">Architecture Decision Records</a>
     </li>
     <li>
-     <a href="#development-boudary">Architectural Caracteristics</a>
+     <a href="/solution-architecture/architectural-caracteristics.md">Architectural Caracteristics</a>
     </li>      
     <li>
-     <a href="#delivery-boudary">Event Specification (AsyncAPI)</a>
+     <a href="/solution-architecture/event-specification.md">Event Specification (AsyncAPI)</a>
     </li>
     <li>
-     <a href="#software-architecture-boudary">Constraints Records</a>
+     <a href="/solution-architecture/constraints-records.md">Constraints Records</a>
     </li>
     <li>
-     <a href="#development-boudary">API Management</a>
+     <a href="/solution-architecture/api-management.md">API Management</a>
     </li>      
     <li>
-     <a href="#delivery-boudary">UML Behavioral Diagrams</a>
+     <a href="/solution-architecture/uml-behavioral-diagrams.md">UML Behavioral Diagrams</a>
     </li>
     <li>
-     <a href="#development-boudary">Container Diagram</a>
+     <a href="/solution-architecture/container-diagram.md">Container Diagram</a>
     </li>      
     <li>
-     <a href="#delivery-boudary">Solution Standards</a>
+     <a href="/solution-architecture/solution-standards.md">Solution Standards</a>
     </li>
   </ol>
 </details>
