@@ -51,20 +51,20 @@ XXXX
   <summary>Deliverables</summary>
   <ol>    
     <li>
-        <a href="#domain-discovery">Domain Discovery</a>
-      </li>
-      <li>
-        <a href="#functional-requirements">Functional Requirements</a>
-      </li>
-      <li>
-        <a href="#bounded-contexts-mapping">Bounded Contexts Context Mapping</a>
-      </li>
-      <li>
-        <a href="#development-boudary">System Context Diagram</a>
-      </li>      
-      <li>
-        <a href="#delivery-boudary">Identify Microservices</a>
-      </li>
+      <a href="domain-discovery.md">Domain Discovery</a>
+    </li>
+    <li>
+      <a href="#functional-requirements">Functional Requirements</a>
+    </li>
+    <li>
+      <a href="#bounded-contexts-mapping">Bounded Contexts Context Mapping</a>
+    </li>
+    <li>
+      <a href="#development-boudary">System Context Diagram</a>
+    </li>      
+    <li>
+      <a href="#delivery-boudary">Identify Microservices</a>
+    </li>
   </ol>
 </details>
 
@@ -77,35 +77,35 @@ XXXX
   <summary>Deliverables</summary>
   <ol>    
     <li>
-        <a href="#business-boudary">Architecture Solution Design</a>
-      </li>
-      <li>
-        <a href="#solution-architecture-boudary">Microservice Patterns</a>
-      </li>
-      <li>
-        <a href="#software-architecture-boudary">Architecture Decision Records</a>
-      </li>
-      <li>
-        <a href="#development-boudary">Architectural Caracteristics</a>
-      </li>      
-      <li>
-        <a href="#delivery-boudary">Event Specification (AsyncAPI)</a>
-      </li>
-      <li>
-        <a href="#software-architecture-boudary">Constraints Records</a>
-      </li>
-      <li>
-        <a href="#development-boudary">API Management</a>
-      </li>      
-      <li>
-        <a href="#delivery-boudary">UML Behavioral Diagrams</a>
-      </li>
-      <li>
-        <a href="#development-boudary">Container Diagram</a>
-      </li>      
-      <li>
-        <a href="#delivery-boudary">Solution Standards</a>
-      </li>
+     <a href="#business-boudary">Architecture Solution Design</a>
+    </li>
+    <li>
+     <a href="#solution-architecture-boudary">Microservice Patterns</a>
+    </li>
+    <li>
+     <a href="#software-architecture-boudary">Architecture Decision Records</a>
+    </li>
+    <li>
+     <a href="#development-boudary">Architectural Caracteristics</a>
+    </li>      
+    <li>
+     <a href="#delivery-boudary">Event Specification (AsyncAPI)</a>
+    </li>
+    <li>
+     <a href="#software-architecture-boudary">Constraints Records</a>
+    </li>
+    <li>
+     <a href="#development-boudary">API Management</a>
+    </li>      
+    <li>
+     <a href="#delivery-boudary">UML Behavioral Diagrams</a>
+    </li>
+    <li>
+     <a href="#development-boudary">Container Diagram</a>
+    </li>      
+    <li>
+     <a href="#delivery-boudary">Solution Standards</a>
+    </li>
   </ol>
 </details>
 
