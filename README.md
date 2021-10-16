@@ -51,19 +51,19 @@ XXXX
   <summary>Deliverables</summary>
   <ol>    
     <li>
-      <a href="domain-discovery.md">Domain Discovery</a>
+      <a href="/business-domain-design/domain-discovery.md">Domain Discovery</a>
     </li>
     <li>
-      <a href="#functional-requirements">Functional Requirements</a>
+      <a href="/business-domain-design/functional-requirements.md">Functional Requirements</a>
     </li>
     <li>
-      <a href="#bounded-contexts-mapping">Bounded Contexts Context Mapping</a>
+      <a href="/business-domain-design/bounded-contexts-context-mapping.md">Bounded Contexts Context Mapping</a>	    
     </li>
     <li>
-      <a href="#development-boudary">System Context Diagram</a>
+      <a href="/business-domain-design/system-context-diagram.md">System Context Diagram</a>	   
     </li>      
     <li>
-      <a href="#delivery-boudary">Identify Microservices</a>
+      <a href="/business-domain-design/identify-microservices.md">Identify Microservices</a>
     </li>
   </ol>
 </details>
