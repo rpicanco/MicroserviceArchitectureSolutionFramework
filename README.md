@@ -48,34 +48,60 @@ XXXX
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Deliverables</summary>
   <ol>    
     <li>
-       <a>Deliverables</a>
-    </li>
-    <ul>
-      <li>
-        <a href="#business-boudary">Domain Discovery</a>
+        <a href="#domain-discovery">Domain Discovery</a>
       </li>
       <li>
-        <a href="#solution-architecture-boudary">Functional Requirements</a>
+        <a href="#functional-requirements">Functional Requirements</a>
       </li>
       <li>
-        <a href="#software-architecture-boudary">Bounded Contexts Context Mapping</a>
+        <a href="#bounded-contexts-mapping">Bounded Contexts Context Mapping</a>
       </li>
-	  <li>
+      <li>
         <a href="#development-boudary">System Context Diagram</a>
-      </li>
-      </li>
-	  <li>
+      </li>      
+      <li>
         <a href="#delivery-boudary">Identify Microservices</a>
       </li>
-    </ul>
   </ol>
 </details>
 
 ## Solution Architecture Boudary
-XXXX
+
+<img src="/solution-architecture/Solution Architecture - Deliverables.png">
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Deliverables</summary>
+  <ol>    
+    <li>
+        <a href="#business-boudary">Architecture Solution Design</a>
+      </li>
+      <li>
+        <a href="#solution-architecture-boudary">Architecture Decision Records</a>
+      </li>
+      <li>
+        <a href="#software-architecture-boudary">Architectural Caracteristics</a>
+      </li>
+      <li>
+        <a href="#development-boudary">Solution Standards</a>
+      </li>      
+      <li>
+        <a href="#delivery-boudary">Constraints Records</a>
+      </li>
+      <li>
+        <a href="#software-architecture-boudary">API Design (Gateway)</a>
+      </li>
+      <li>
+        <a href="#development-boudary">UML Behavioral Diagrams</a>
+      </li>      
+      <li>
+        <a href="#delivery-boudary">Container Diagram</a>
+      </li>
+  </ol>
+</details>
 
 ## Software Architecture Boudary
 XXXX
