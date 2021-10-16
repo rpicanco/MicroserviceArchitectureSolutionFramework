@@ -51,19 +51,19 @@ XXXX
   <summary>Deliverables</summary>
   <ol>    
     <li>
-      <a href="/business-domain-design/domain-discovery.md">Domain Discovery</a>
+      <a href="/business-domain-design/deliverables/domain-discovery.md">Domain Discovery</a>
     </li>
     <li>
-      <a href="/business-domain-design/functional-requirements.md">Functional Requirements</a>
+      <a href="/business-domain-design/deliverables/functional-requirements.md">Functional Requirements</a>
     </li>
     <li>
-      <a href="/business-domain-design/bounded-contexts-context-mapping.md">Bounded Contexts Context Mapping</a>	    
+      <a href="/business-domain-design/deliverables/bounded-contexts-context-mapping.md">Bounded Contexts Context Mapping</a>	    
     </li>
     <li>
-      <a href="/business-domain-design/system-context-diagram.md">System Context Diagram</a>	   
+      <a href="/business-domain-design/deliverables/system-context-diagram.md">System Context Diagram</a>	   
     </li>      
     <li>
-      <a href="/business-domain-design/identify-microservices.md">Identify Microservices</a>
+      <a href="/business-domain-design/deliverables/identify-microservices.md">Identify Microservices</a>
     </li>
   </ol>
 </details>
@@ -77,34 +77,34 @@ XXXX
   <summary>Deliverables</summary>
   <ol>    
     <li>
-     <a href="/solution-architecture/architecture-solution-design.md">Architecture Solution Design</a>
+     <a href="/solution-architecture/deliverables/architecture-solution-design.md">Architecture Solution Design</a>
     </li>
     <li>
-     <a href="/solution-architecture/microservice-patterns.md">Microservice Patterns</a>
+     <a href="/solution-architecture/deliverables/microservice-patterns.md">Microservice Patterns</a>
     </li>
     <li>
-     <a href="/solution-architecture/architecture-decision-records.md">Architecture Decision Records</a>
+     <a href="/solution-architecture/deliverables/architecture-decision-records.md">Architecture Decision Records</a>
     </li>
     <li>
-     <a href="/solution-architecture/architectural-caracteristics.md">Architectural Caracteristics</a>
+     <a href="/solution-architecture/deliverables/architectural-caracteristics.md">Architectural Caracteristics</a>
     </li>      
     <li>
-     <a href="/solution-architecture/event-specification.md">Event Specification (AsyncAPI)</a>
+     <a href="/solution-architecture/deliverables/event-specification.md">Event Specification (AsyncAPI)</a>
     </li>
     <li>
-     <a href="/solution-architecture/constraints-records.md">Constraints Records</a>
+     <a href="/solution-architecture/deliverables/constraints-records.md">Constraints Records</a>
     </li>
     <li>
-     <a href="/solution-architecture/api-management.md">API Management</a>
+     <a href="/solution-architecture/deliverables/api-management.md">API Management</a>
     </li>      
     <li>
-     <a href="/solution-architecture/uml-behavioral-diagrams.md">UML Behavioral Diagrams</a>
+     <a href="/solution-architecture/deliverables/uml-behavioral-diagrams.md">UML Behavioral Diagrams</a>
     </li>
     <li>
-     <a href="/solution-architecture/container-diagram.md">Container Diagram</a>
+     <a href="/solution-architecture/deliverables/container-diagram.md">Container Diagram</a>
     </li>      
     <li>
-     <a href="/solution-architecture/solution-standards.md">Solution Standards</a>
+     <a href="/solution-architecture/deliverables/solution-standards.md">Solution Standards</a>
     </li>
   </ol>
 </details>
