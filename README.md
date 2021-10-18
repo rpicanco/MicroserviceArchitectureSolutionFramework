@@ -44,7 +44,7 @@ XXXX
 
 ## Business Domain Boudary
 
-<img src="/business-domain/images/Business Domain Design - Deliverables.png">
+<img src="/business-domain/images/Business Domain - Deliverables.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
