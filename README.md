@@ -1,6 +1,6 @@
 # Microservice Architecture Solution Framework
 <br>
-<img src="/microservice-architecture-solution-framework/images/Microservice Architecture Solution Framework - Boundaries.png">
+<img src="/framework/images/Microservice Architecture Solution Framework - Boundaries.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
