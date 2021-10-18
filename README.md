@@ -147,7 +147,7 @@ XXXX
      <a href="/development/deliverables/microservice-specification.md">Microservice Specification</a>
     </li>
     <li>
-     <a href="/development/deliverables/features-and-scenarios-behaviour-Driven.md">Features & Scenarios - Behaviour Driven</a>
+     <a href="/development/deliverables/features-and-scenarios-behaviour-driven.md">Features & Scenarios - Behaviour Driven</a>
     </li>
     <li>
      <a href="/development/deliverables/test-automation.md">Test Automation</a>
