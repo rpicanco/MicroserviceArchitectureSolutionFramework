@@ -63,7 +63,7 @@ XXXX
       <a href="/business-domain/deliverables/system-context-diagram.md">System Context Diagram</a>	   
     </li>      
     <li>
-      <a href="/business-domain/deliverables/identify-microservices.md">Identify Microservices</a>
+      <a href="/business-domain/deliverables/microservice-catalog.md">Microservice Catalog</a>
     </li>
   </ol>
 </details>
