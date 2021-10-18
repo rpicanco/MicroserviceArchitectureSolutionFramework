@@ -44,26 +44,26 @@ XXXX
 
 ## Business Domain Boudary
 
-<img src="/business-domain-design/images/Business Domain Design - Deliverables.png">
+<img src="/business-domain/images/Business Domain Design - Deliverables.png">
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Deliverables</summary>
   <ol>    
     <li>
-      <a href="/business-domain-design/deliverables/domain-discovery.md">Domain Discovery</a>
+      <a href="/business-domain/deliverables/domain-discovery.md">Domain Discovery</a>
     </li>
     <li>
-      <a href="/business-domain-design/deliverables/functional-requirements.md">Functional Requirements</a>
+      <a href="/business-domain/deliverables/functional-requirements.md">Functional Requirements</a>
     </li>
     <li>
-      <a href="/business-domain-design/deliverables/bounded-contexts-context-mapping.md">Bounded Contexts Context Mapping</a>	    
+      <a href="/business-domain/deliverables/bounded-contexts-context-mapping.md">Bounded Contexts Context Mapping</a>	    
     </li>
     <li>
-      <a href="/business-domain-design/deliverables/system-context-diagram.md">System Context Diagram</a>	   
+      <a href="/business-domain/deliverables/system-context-diagram.md">System Context Diagram</a>	   
     </li>      
     <li>
-      <a href="/business-domain-design/deliverables/identify-microservices.md">Identify Microservices</a>
+      <a href="/business-domain/deliverables/identify-microservices.md">Identify Microservices</a>
     </li>
   </ol>
 </details>
