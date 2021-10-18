@@ -107,7 +107,30 @@ XXXX
 </details>
 
 ## Software Architecture Boudary
-XXXX
+
+<img src="/software-architecture/images/Software Architecture - Deliverables.png">
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Deliverables</summary>
+  <ol>    
+    <li>
+     <a href="/solution-architecture/deliverables/architecture-software-design.md">Architecture Software Design</a>
+    </li>
+    <li>
+     <a href="/solution-architecture/deliverables/microservice-archetype.md">Microservice Archetype</a>
+    </li>
+    <li>
+     <a href="/solution-architecture/deliverables/uml-structure-diagrams.md">UML Structure Diagrams</a>
+    </li>
+    <li>
+     <a href="/solution-architecture/deliverables/coding-standards-and-guidelines.md">Coding Standards and Guidelines</a>
+    </li>      
+    <li>
+     <a href="/solution-architecture/deliverables/branching-workflow.md">Branching Workflow</a>
+    </li>    
+  </ol>
+</details>
 
 ## Development Boudary
 XXXX
