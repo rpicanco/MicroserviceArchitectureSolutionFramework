@@ -10,7 +10,7 @@
       <a href="#about-the-project">About the Project</a>
     </li>
     <li>
-      <a href="#what-problem-does-this-framework-solve">What problem does this framework solve?</a>
+      <a href="#what-is-the-purpose-of-this-framework">What is the purpose of this framework?</a>
     </li>
     <li>
        <a>Boundaries' deliverables</a>
@@ -39,7 +39,7 @@
 ## About the Project
 This project aims to propose a Microservice Architecture Solution Framework for standardizing deliverables in Microservices Architecture projects. It was designed with boundaries and deliverables. Each boundary has many deliverables and it can be done in any order and/or in parallel and being enriched throughout the project lifecycle. However, each project has its own needs and has its own peculiarities, as a consequence, not all deliverables are applied for a specific project.
 
-## What problem does this framework solve?
+## What is the purpose of this framework?
 XXXX
 
 ## Business Domain Boudary
