@@ -66,7 +66,7 @@ If the understanding of the client’s problem and test scenarios are not clearl
 
 The main purpose of the framework is to standardize the MSA project through well-defined and straightforward deliverables, being a reference guide that helps the companies to achieve those benefits.
 
-To conclude, as each <b>MSA</b> project has its own needs and has its own peculiarities, not all deliverables are applied to all types of <b>MSA</b> project, such as: re-architecting; greenfield; redesign a poorly designed solution project, as well as a Minimum Viable Product (MVP) project.
+To conclude, as each <b>MSA</b> project has its own needs and has its own peculiarities, not all deliverables are applied to all types of <b>MSA</b> project, such as: re-architecting; greenfield; redesign a poorly designed <b>MSA</b> project, as well as a Minimum Viable Product (MVP) project.
 
 ## Business Domain Boudary
 
