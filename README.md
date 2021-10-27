@@ -40,7 +40,31 @@
 The aim of this project is to propose a Microservice Architecture Solution Framework for standardizing deliverables in Microservices Architecture projects. It was designed with boundaries and deliverables. Each boundary has many deliverables and they can be done in any order and/or in parallel and being enriched throughout the project lifecycle.
 
 ## What is the purpose of this framework?
-XXXX
+You have been invited to a new initiative in your consulting firm for leading the first Microservice Architecture Project (MAP) to an important client. So, where to start?
+
+When adopting a MAP, there are some important benefits for your business that we must consider:
+Agility;
+Resilient / Fault isolation;
+Scalability;
+High availability;
+Mix of technologies;
+Easy and fast deployment of new functionalities/ideias in production (fast Time to Market).
+
+After acquiring the aforementioned benefits, we're justifying the use of this complex architecture in comparison to a monolithic architecture.
+
+The main problem when companies are running a MAP is not to achieve those benefits, either because it doesn't follow some best practices or there is no guideline to help them. That means you're running a complex architecture without achieving their benefits that justify its adoption.
+
+What to deliver beyond code to achieve those benefits and, in consequence, to become a competitive company in the market?
+
+Many clients believe the MAP has only the "coding phase", if in the beginning of the MAP the developers are coding, which means the MAP is going well.
+
+Unfortunately, this kind of mindset is very common, either because of being pressured on scope or; deadlines or even budget. Consequently the neglected part has been a deep understanding of the client’s problem by getting to know the client’s business domain, as well as being aware of the functional and nonfunctional requirements and test scenarios using some methodology like Behaviour Driven Development (BDD). 
+
+If the understanding of the client’s problem and test scenarios are not clearly understood and aligned with stakeholders since the early stages of the MAP, it will be doomed.
+
+The main purpose of the framework is to standardize the MAPs through well-defined and straightforward deliverables, being a reference guide that helps the companies to achieve those benefits.
+
+To conclude, as each MAP has its own needs and has its own peculiarities, not all deliverables are applied to all types of MAPs, such as: re-architecting MAP; greenfield MAP; redesign a poorly designed solution MAP, as well as a Minimum Viable Product (MVP) project.
 
 ## Business Domain Boudary
 
